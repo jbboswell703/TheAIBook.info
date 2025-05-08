@@ -7,8 +7,7 @@
 - **AI Tools Directory**: Explore a wide range of AI-powered solutions.  
 - **Automation Platforms**: Discover tools to streamline workflows.  
 - **Agent Builder Resources**: Learn about frameworks for AI-powered agents.  
-- **Multilingual Support**: Automatic language translation system in progress.  
-- **AdSense Integration**: Preparing for monetization and future growth.  
+- **Multilingual Support**: Automatic language translation system in progress.   
 
 ## Setup  
 To run or contribute to the project:  
