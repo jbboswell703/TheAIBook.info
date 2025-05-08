@@ -8,3 +8,5 @@
 - **Automation Platforms**: Discover tools to streamline workflows.  
 - **Agent Builder Resources**: Learn about frameworks for AI-powered agents.  
 - **Multilingual Support**: Automatic language translation system in progress.
+- [Privacy Policy](docs/privacy-policy.md)  
+- [Terms of Service](docs/terms-of-service.md)
