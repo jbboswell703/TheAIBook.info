@@ -7,10 +7,4 @@
 - **AI Tools Directory**: Explore a wide range of AI-powered solutions.  
 - **Automation Platforms**: Discover tools to streamline workflows.  
 - **Agent Builder Resources**: Learn about frameworks for AI-powered agents.  
-- **Multilingual Support**: Automatic language translation system in progress.   
-
-## Setup  
-To run or contribute to the project:  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-repo-url.git
+- **Multilingual Support**: Automatic language translation system in progress.
