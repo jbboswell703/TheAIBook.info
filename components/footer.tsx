@@ -1,4 +1,4 @@
-import Link from "next/link"
+import Link from "next/link";
 
 export default function Footer() {
   return (
@@ -15,42 +15,27 @@ export default function Footer() {
             <h4 className="font-medium mb-4">Categories</h4>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link
-                  href="/categories/content-creation"
-                  className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
-                >
+                <Link href="/categories/content-creation" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Content Creation
                 </Link>
               </li>
               <li>
-                <Link
-                  href="/categories/image-generation"
-                  className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
-                >
+                <Link href="/categories/image-generation" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Image Generation
                 </Link>
               </li>
               <li>
-                <Link
-                  href="/categories/coding"
-                  className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
-                >
+                <Link href="/categories/coding" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Coding Assistance
                 </Link>
               </li>
               <li>
-                <Link
-                  href="/categories/agent-builders"
-                  className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
-                >
+                <Link href="/categories/agent-builders" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   AI Agent Builders
                 </Link>
               </li>
               <li>
-                <Link
-                  href="/categories/workflow-automation"
-                  className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
-                >
+                <Link href="/categories/workflow-automation" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Workflow Automation
                 </Link>
               </li>
@@ -60,42 +45,27 @@ export default function Footer() {
             <h4 className="font-medium mb-4">Quick Links</h4>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link
-                  href="/all-tools"
-                  className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
-                >
+                <Link href="/all-tools" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   All Tools
                 </Link>
               </li>
               <li>
-                <Link
-                  href="/about"
-                  className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
-                >
+                <Link href="/about" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   About Us
                 </Link>
               </li>
               <li>
-                <Link
-                  href="/contact"
-                  className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
-                >
+                <Link href="/contact" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Contact
                 </Link>
               </li>
               <li>
-                <Link
-                  href="/privacy"
-                  className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
-                >
+                <Link href="/privacy-policy.txt" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Privacy Policy
                 </Link>
               </li>
               <li>
-                <Link
-                  href="/terms"
-                  className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
-                >
+                <Link href="/terms.txt" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Terms of Service
                 </Link>
               </li>
@@ -118,5 +88,6 @@ export default function Footer() {
         </div>
       </div>
     </footer>
-  )
+  );
 }
+
