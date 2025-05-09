@@ -82,7 +82,7 @@ export default function ContactPage() {
                 info@theaibook.com
               </a>
               <p className="text-gray-700 mt-4 mb-2">For tool submissions:</p>
-              <a href="mailto:theaibook.directtory@gmail.com" className="text-primary hover:text-primary/80">
+              <a href="mailto:theaibook.directory@gmail.com" className="text-primary hover:text-primary/80">
                 submit@theaibook.com
               </a>
             </div>

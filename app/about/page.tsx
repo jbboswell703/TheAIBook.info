@@ -40,8 +40,8 @@ export default function AboutPage() {
             <p className="text-gray-700">
               Have suggestions for tools we should include? Questions about our directory? We'd love to hear from you!
               Please reach out to us at{" "}
-              <a href="mailto:contact@theaibook.com" className="text-primary hover:text-primary/80">
-                contact@theaibook.com
+              <a href="mailto:theaibook.directory@gmail.com" className="text-primary hover:text-primary/80">
+                theaibook.directory@gmail.com
               </a>
               .
             </p>
